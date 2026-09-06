@@ -2,6 +2,24 @@
 
 Multi-year fleet sizing and vehicle routing optimization for chemical logistics using MILP.
 
+## Academic context
+
+This project was developed as part of the Operations Research course at ULB.
+
+Team members:
+- Harry Fotso Souopgui
+- Luqman El Yassini
+- Faamara Sylla
+
+Supervisors:
+- Yves De Smet
+- Jean Rosenfeld
+
+My contributions:
+- MILP implementation in Python
+- Route generation
+- Sensitivity analysis
+
 ## Problem
 
 A chemical transport company operating from Liège must deliver acid to five Belgian cities and transport base from Antwerp back to Liège.
